@@ -7,3 +7,4 @@
 ![contactos](https://user-images.githubusercontent.com/62525876/87818977-bcccb200-c828-11ea-996d-5d84fd710ad8.jpg)
 ![drive](https://user-images.githubusercontent.com/62525876/87819133-fac9d600-c828-11ea-9b47-cbc99b40167d.jpg)
 ![calendario](https://user-images.githubusercontent.com/62525876/87819320-3b295400-c829-11ea-8951-6c306b6ec4eb.jpg)
+![traductor](https://user-images.githubusercontent.com/62525876/87819467-85aad080-c829-11ea-9784-e7b86f12c73c.jpg)
