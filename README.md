@@ -21,3 +21,4 @@
 ![google earth](https://user-images.githubusercontent.com/62525876/87823524-c78b4500-c830-11ea-9ff3-2476d75b2cfe.jpg)
 ![coleccion](https://user-images.githubusercontent.com/62525876/87823748-38326180-c831-11ea-871f-77bcac06993f.jpg)
 ![Google sheets](https://user-images.githubusercontent.com/62525876/87823882-73349500-c831-11ea-83ff-9f68eab6e99a.png)
+![presentaciones](https://user-images.githubusercontent.com/62525876/87824049-c870a680-c831-11ea-8a66-0c4cd3d56cf1.png)
