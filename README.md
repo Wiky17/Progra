@@ -10,3 +10,4 @@
 ![traductor](https://user-images.githubusercontent.com/62525876/87819467-85aad080-c829-11ea-9784-e7b86f12c73c.jpg)
 ![Google Photos](https://user-images.githubusercontent.com/62525876/87819675-d9b5b500-c829-11ea-9c5d-d379d01d036f.jpg)
 ![Google meet](https://user-images.githubusercontent.com/62525876/87819797-1681ac00-c82a-11ea-9540-0013f896fdf8.jpg)
+![google docs](https://user-images.githubusercontent.com/62525876/87820372-36659f80-c82b-11ea-8965-d3328d73770f.jpg)
